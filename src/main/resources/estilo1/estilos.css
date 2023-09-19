@@ -1,0 +1,30 @@
+.root{
+      -fx-background-color : #454568;
+     fx-background-image:url ("");
+}
+
+.menu-bar{
+    -fx-background-color: #BCC8B3;
+    -fx-border-color: #000;
+    -fx-border-width: 2;
+}
+
+.menu:hover{
+    -fx-border-color: #199;
+    -fx-font-weight:bold;
+}
+
+.label:hover{
+    -fx-font-size: 15 pt;
+    -fx-text-fill: white;
+}
+
+.menu-item{
+    -fx-background-color: #BCC8B3;
+    -fx-border-color: #000;
+}
+
+.menu-item:hover{
+    -fx-background-color: #FFF;
+    -fx-font-weight: bold;
+}
